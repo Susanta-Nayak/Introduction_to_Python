@@ -1,4 +1,5 @@
 # Introduction to Python
+# To make you a better learner for better life
 These are small programs being written to learn Python. As many great teachers have said, one must learn by doing.
 # References
 Many of the concepts being used here were taught in the course offered at Queens College; *CS 90 Introduction to Python* (Summer 2020).\
